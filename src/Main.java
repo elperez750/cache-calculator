@@ -7,7 +7,6 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println(convertHexToBinary("F2A30"));
 
 
         // Get value and exponent
